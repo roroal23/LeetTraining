@@ -1,3 +1,4 @@
+package LeetTraining.backtracking;
 import java.util.*;
 
 public class LT_1980_UniqueBinaryString {

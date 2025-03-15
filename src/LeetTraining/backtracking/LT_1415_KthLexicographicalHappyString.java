@@ -1,3 +1,4 @@
+package LeetTraining.backtracking;
 import java.util.ArrayList;
 import java.util.List;
 public class LT_1415_KthLexicographicalHappyString {
