@@ -4,8 +4,8 @@ public class LT_58_LengthOfLastWord {
 	
 	/**	Given a string s consisting of words and spaces, return the length of the last word in the string.
 		A word is a maximal consisting of non-space characters only.
-	 * @param s
-	 * @return
+	 * @param s String s consisting of words and spaces
+	 * @return	Return the length of the last word in the string
 	 */
 	public int lengthOfLastWord(String s) {
         int i = s.length() - 1;//Start at the end of the string and go backwards

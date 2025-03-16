@@ -1,4 +1,4 @@
-package LeetTraining.backtracking;
+package LeetTraining.binarySearch;
 
 import java.util.Arrays;
 

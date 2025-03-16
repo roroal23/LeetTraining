@@ -2,6 +2,8 @@ package LeetTraining.arrays;
 import java.util.*;
 
 public class LT_1524_NumberSubarraysWithOddSum {
+	
+	
 	public static int numOfSubarrays(int[] arr) {
 		long sum = 0;
 		int numOddAcc = 0;
