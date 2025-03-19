@@ -1,4 +1,4 @@
-package LeetTraining.arrays;
+package LeetTraining.hashtable;
 import java.util.*;
 public class LT_2570_MergeTwo2DArrays {
 	

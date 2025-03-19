@@ -1,4 +1,4 @@
-package LeetTraining.arrays;
+package LeetTraining.prefixSum;
 import java.util.Arrays;
 
 public class LT_3355_ZeroArrayTransformationI {

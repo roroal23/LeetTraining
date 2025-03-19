@@ -1,4 +1,4 @@
-package LeetTraining.arrays;
+package LeetTraining.slidingWindow;
 
 public class LT_3105_LongestStrictlyIncreasingOrDecreasingSubarray {
 	
